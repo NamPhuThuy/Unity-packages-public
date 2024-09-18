@@ -1,0 +1,3 @@
+[submodule "FancyScrollView"]
+	path = FancyScrollView
+	url = https://github.com/setchi/FancyScrollView.git
