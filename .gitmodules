@@ -1,3 +1,6 @@
 [submodule "FancyScrollView"]
 	path = FancyScrollView
 	url = https://github.com/setchi/FancyScrollView.git
+[submodule "UnityAssetUsageDetector"]
+	path = UnityAssetUsageDetector
+	url = https://github.com/yasirkula/UnityAssetUsageDetector.git
