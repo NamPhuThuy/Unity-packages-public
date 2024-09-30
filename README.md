@@ -28,6 +28,9 @@
 <a href = "https://github.com/Yunasawa-Studio/YNL-General-Toolbox">YNL-General-Toolbox</a>
 - Empower your Unity projects with this comprehensive toolbox. Designed for versatility, it provides essential tools to enhance your development process and boost productivity across various tasks.
 
+<a href = "https://github.com/Haruma-K/UnityScreenNavigator">UnityScreenNavigator</a>
+- Library for screen transitions, transition animations, transition history stacking, and screen lifecycle management in Unity's uGUI.
+
 ### Price
 
 <a href="https://assetstore.unity.com/packages/tools/utilities/advanced-playerprefs-window-7070">Advanced PlayerPrefs Window</a>
