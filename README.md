@@ -31,6 +31,9 @@
 <a href = "https://github.com/Haruma-K/UnityScreenNavigator">UnityScreenNavigator</a>
 - Library for screen transitions, transition animations, transition history stacking, and screen lifecycle management in Unity's uGUI.
 
+<a href = "https://github.com/quoxel/VariableGridLayoutGroup">VariableGridLayoutGroup</a>
+- A custom Unity UI layout component, allowing a grid to have variable size columns and rows.
+
 ### Price
 
 <a href="https://assetstore.unity.com/packages/tools/utilities/advanced-playerprefs-window-7070">Advanced PlayerPrefs Window</a>
